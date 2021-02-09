@@ -1,0 +1,23 @@
+Data Base-
+RDBMS-->Relational DBMS-->Tables-->Row &column
+OODBMS
+ORDBMS
+NDBMS
+GDBMS
+
+
+JAVA --Oracle-8i,9i,10g,12c
+c# & ASP,NET-->Microsoft-->AccessDB,SQL Server 2005,2008,2010,2012,2015
+IBM-->DB2
+Python,PHP-->Open source-->musql,mariaDB,MongoDB
+
+
+WAMP		XAMPP
+LAMP
+MAMP
+
+
+W-->WINDOWS-->OS 
+A-->Apache-->Web Server
+M-->Mysql-->Data Base
+P-->PHP-->Lang.
